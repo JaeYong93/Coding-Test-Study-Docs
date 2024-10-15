@@ -30,6 +30,6 @@
 ※ 불특정 다수에게 공개될 수 있는 만큼 파일 이름은 실명보단 닉네임으로 하는걸 권장드립니다.
 
 ## 😀 참가 인원
-|**WinterHana**|추가|추가|추가|추가|
+|**WinterHana**|**JaeYong93**|추가|추가|추가|
 |:---:|:---:|:---:|:---:|:---:|
-|[GitHub](https://github.com/WinterHana)|GitHub|GitHub|GitHub|GitHub|
+|[GitHub](https://github.com/WinterHana)|[GitHub](https://github.com/JaeYong93)|GitHub|GitHub|GitHub|
